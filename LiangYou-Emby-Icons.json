@@ -1,7 +1,27 @@
 {
   "name": "良友媒体图标库",
-  "description": "LiangYou Icon Library · 良哥看未来整理；收录第三方图标索引，原图归各来源作者所有",
+  "description": "LiangYou Icon Library · 良哥看未来整理；含良友专属图标及第三方图标索引，第三方原图归各来源作者所有",
   "icons": [
+    {
+      "name": "良友-流云音乐",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-liuyun-music.jpeg"
+    },
+    {
+      "name": "良友-CarPlay",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-carplay.jpeg"
+    },
+    {
+      "name": "良友-3ayne虎影",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/3ayne-tiger-player.jpeg"
+    },
+    {
+      "name": "良友-Player",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-player.jpeg"
+    },
+    {
+      "name": "良友-熊猫",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-panda.jpeg"
+    },
     {
       "name": "emby · 离歌",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/emby.png"
