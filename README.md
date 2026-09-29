@@ -18,6 +18,8 @@ https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/Liang
 
 在播放器的图标库或图标订阅入口添加以上地址，刷新后按应用或服务器名称搜索。同名的不同款式使用 `名称 01`、`名称 02` 等编号。
 
+除开头 5 个专属图标外，其余图标统一按名称 A–Z 排列，中文名按拼音并入，不区分大小写。同名款式按数字顺序排列，数字开头的名称统一放在列表最后。
+
 ## 良友专属
 
 | 流云音乐 | CarPlay | 3ayne 虎影 | Player | 熊猫 |
