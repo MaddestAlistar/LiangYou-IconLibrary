@@ -8,11 +8,21 @@
 
 由良哥看未来精选整理、持续维护的媒体图标集合。统一检索名称，同名款式以数字编号区分，让选图更方便。
 
-**3,154 个图标 · 5 个良友专属图标置顶 · 更新于 2026-10-01**
+**7,314 个图标 · 5 个良友专属图标置顶 · 更新于 2026-10-08**
 
-本次新增 19 张良哥看未来提供的原创图标，图片存放在 `icons/liangyou/`，按名称并入全库排序。
+现有 **39 张良哥看未来提供的原创与专属图标**，图片存放在 `icons/liangyou/`。本次补充 15 张原创图标，并收录 4,171 张去重后的扩展图标，统一命名、统一排序。
 
-## 订阅地址
+## 原创图标订阅
+
+只收录良哥看未来提供的 39 张原创与专属图标，适合单独使用良友图标。
+
+```text
+https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/LiangYou-Original-Icons.json
+```
+
+## 完整版订阅
+
+包含原创图标和精选扩展图标，原订阅地址保持不变。
 
 ```text
 https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/LiangYou-Emby-Icons.json
