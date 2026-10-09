@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026年10月8日",
+  "description": "小红书：良哥看未来整理｜更新时间：2026年10月9日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -2839,6 +2839,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/chabaidao-01.png"
     },
     {
+      "name": "chabaidao｜茶百道动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/chabaidao-animated-01.gif"
+    },
+    {
       "name": "chabaidao-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chabaidao-emby.png"
     },
@@ -2885,6 +2889,10 @@
     {
       "name": "chamberofsecrets55",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/chamberofsecrets55.png"
+    },
+    {
+      "name": "changwenxigua｜常温西瓜动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/changwenxigua-animated-01.gif"
     },
     {
       "name": "ChaPanda",
@@ -2965,6 +2973,10 @@
     {
       "name": "chencheng｜宸澄 02",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/chencheng-02.png"
+    },
+    {
+      "name": "chencheng｜宸澄动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/chencheng-animated-01.gif"
     },
     {
       "name": "chencheng-emby",
@@ -4579,6 +4591,10 @@
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Doubon3.png"
     },
     {
+      "name": "Doubon 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/doubon-animated-01.gif"
+    },
+    {
       "name": "doubon-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/doubon-emby.png"
     },
@@ -5161,6 +5177,10 @@
     {
       "name": "Ember 03",
       "url": "https://emby-icon.vercel.app/icons/Ember.PNG"
+    },
+    {
+      "name": "Ember 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/ember-animated-01.gif"
     },
     {
       "name": "ember-emby",
@@ -10587,6 +10607,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/leguan-02.jpg"
     },
     {
+      "name": "leguan｜乐观动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/leguan-animated-01.gif"
+    },
+    {
       "name": "leguan｜乐观羊年限定 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/leguan-01.jpg"
     },
@@ -11177,6 +11201,10 @@
     {
       "name": "liuguanghualang-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/liuguanghualang-emby.png"
+    },
+    {
+      "name": "liuguanghualang｜流光画廊动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liuguanghualang-animated-01.gif"
     },
     {
       "name": "liuguanghualang｜流光画廊透明版 01",
@@ -18767,6 +18795,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/sntp-01.png"
     },
     {
+      "name": "sntp｜守候公益动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/sntp-animated-01.gif"
+    },
+    {
       "name": "Snyder-Shawn_To-Dust_00082",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Snyder-Shawn_To-Dust_00082.png"
     },
@@ -19413,6 +19445,10 @@
     {
       "name": "suishipaolu｜随时跑路 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/suishipaolu-01.png"
+    },
+    {
+      "name": "suishipaolu｜随时跑路动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/suishipaolu-animated-01.gif"
     },
     {
       "name": "Suitable-Flesh-61",
@@ -24529,6 +24565,10 @@
     {
       "name": "zhongchouraise-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/zhongchouraise-emby.png"
+    },
+    {
+      "name": "zhongdianzhan｜终点站动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/zhongdianzhan-animated-01.gif"
     },
     {
       "name": "中国广电",
