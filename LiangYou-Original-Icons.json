@@ -1,6 +1,6 @@
 {
   "name": "良友原创图标库",
-  "description": "小红书：良哥看未来原创｜更新时间：2026年10月9日",
+  "description": "小红书：良哥看未来原创｜更新时间：2026年10月10日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -37,6 +37,10 @@
     {
       "name": "baimingdan｜白名单 02",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/baimingdan-02.png"
+    },
+    {
+      "name": "bingzhenxigua｜冰镇西瓜动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/bingzhenxigua-animated-01.gif"
     },
     {
       "name": "bubingyingdi｜步兵营地透明版 01",
@@ -135,6 +139,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/leguan-01.jpg"
     },
     {
+      "name": "linjing｜临境动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/linjing-animated-01.gif"
+    },
+    {
       "name": "liuguanghualang｜流光画廊动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liuguanghualang-animated-01.gif"
     },
@@ -159,6 +167,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/moyunge-01.png"
     },
     {
+      "name": "moyunge｜墨云阁动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/moyunge-animated-01.gif"
+    },
+    {
       "name": "Msky 09",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/msky-01.png"
     },
@@ -171,6 +183,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/ok-01.png"
     },
     {
+      "name": "Omega 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/omega-animated-01.gif"
+    },
+    {
       "name": "pomelo｜柚子 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/pomelo-01.png"
     },
@@ -179,12 +195,20 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/qiandaobaohao-01.png"
     },
     {
+      "name": "SDX 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/sdx-animated-01.gif"
+    },
+    {
       "name": "shenmiliwu｜神秘礼物透明版 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shenmiliwu-transparent-01.png"
     },
     {
       "name": "shunying｜瞬影 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shunying-01.png"
+    },
+    {
+      "name": "shunying｜瞬影动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shunying-animated-01.gif"
     },
     {
       "name": "sntp｜守候公益 01",
@@ -207,8 +231,16 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/tanhuatv-transparent-01.png"
     },
     {
+      "name": "tiannan｜天南动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/tiannan-animated-01.gif"
+    },
+    {
       "name": "vody 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/vody-01.png"
+    },
+    {
+      "name": "wenjian｜稳健动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/wenjian-animated-01.gif"
     },
     {
       "name": "无限盾牌透明版 01",
@@ -223,8 +255,16 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/youno-01.png"
     },
     {
+      "name": "Youno 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/youno-animated-01.gif"
+    },
+    {
       "name": "youqibing｜透明版 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/youqibing-transparent-01.png"
+    },
+    {
+      "name": "yuanwei｜鸢尾动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuanwei-animated-01.gif"
     },
     {
       "name": "yuchupro｜予初pro 01",

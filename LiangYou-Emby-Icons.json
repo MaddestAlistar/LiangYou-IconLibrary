@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026年10月9日",
+  "description": "小红书：良哥看未来整理｜更新时间：2026年10月10日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -2021,6 +2021,10 @@
     {
       "name": "Bingzhenxigua 02",
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Bingzhenxigua.png"
+    },
+    {
+      "name": "bingzhenxigua｜冰镇西瓜动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/bingzhenxigua-animated-01.gif"
     },
     {
       "name": "Bird-003",
@@ -11143,6 +11147,10 @@
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Linjing1.png"
     },
     {
+      "name": "linjing｜临境动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/linjing-animated-01.gif"
+    },
+    {
       "name": "Lion",
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Lion.png"
     },
@@ -13443,6 +13451,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/moyunge-01.png"
     },
     {
+      "name": "moyunge｜墨云阁动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/moyunge-animated-01.gif"
+    },
+    {
       "name": "mozart59",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/mozart59.png"
     },
@@ -14785,6 +14797,10 @@
     {
       "name": "OMEGA(1)-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/OMEGA(1)-emby.png"
+    },
+    {
+      "name": "Omega 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/omega-animated-01.gif"
     },
     {
       "name": "OMEGA-emby",
@@ -17851,6 +17867,10 @@
       "url": "https://emby-icon.vercel.app/icons/SDX.PNG"
     },
     {
+      "name": "SDX 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/sdx-animated-01.gif"
+    },
+    {
       "name": "Sea-Fever-050",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Sea-Fever-050.png"
     },
@@ -18485,6 +18505,10 @@
     {
       "name": "shunying｜瞬影 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shunying-01.png"
+    },
+    {
+      "name": "shunying｜瞬影动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shunying-animated-01.gif"
     },
     {
       "name": "Shupian",
@@ -21439,6 +21463,10 @@
       "url": "https://cdn.imgos.cn/vip/2026/03/08/69ad54092cd51.jpeg"
     },
     {
+      "name": "tiannan｜天南动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/tiannan-animated-01.gif"
+    },
+    {
       "name": "Tiannanxiaozhu",
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Tiannanxiaozhu.png"
     },
@@ -22655,6 +22683,10 @@
       "url": "https://emby-icon.vercel.app/icons/Wenjian_QingFu.PNG"
     },
     {
+      "name": "wenjian｜稳健动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/wenjian-animated-01.gif"
+    },
+    {
       "name": "Western-42",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Western-42.png"
     },
@@ -23851,6 +23883,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Younoair-emby.png"
     },
     {
+      "name": "Youno 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/youno-animated-01.gif"
+    },
+    {
       "name": "Youno-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Youno-emby.png"
     },
@@ -24029,6 +24065,10 @@
     {
       "name": "yuanwei-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/yuanwei-emby.png"
+    },
+    {
+      "name": "yuanwei｜鸢尾动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuanwei-animated-01.gif"
     },
     {
       "name": "予初",
