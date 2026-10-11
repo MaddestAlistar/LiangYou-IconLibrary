@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026年10月10日",
+  "description": "小红书：良哥看未来整理｜更新时间：2026年10月11日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -433,6 +433,10 @@
     {
       "name": "Alpha_Comic",
       "url": "https://emby-icon.vercel.app/icons/Alpha_Comic.PNG"
+    },
+    {
+      "name": "Alpha 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/alpha-animated-01.gif"
     },
     {
       "name": "Alpha_Kid",
@@ -1889,6 +1893,10 @@
     {
       "name": "悲伤小鸡",
       "url": "https://cdn.imgos.cn/vip/2026/03/07/69ab5a36c5103.jpg"
+    },
+    {
+      "name": "beishangxiaoji｜悲伤小鸡动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/beishangxiaoji-animated-01.gif"
     },
     {
       "name": "beishangxiaoji-emby",
@@ -8599,6 +8607,10 @@
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Huige2.png"
     },
     {
+      "name": "huisheng｜回声动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/huisheng-animated-01.gif"
+    },
+    {
       "name": "Hulk-42",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Hulk-42.png"
     },
@@ -13107,6 +13119,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Mogul-Mowgli-037.png"
     },
     {
+      "name": "mogu｜蘑菇动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mogu-animated-01.gif"
+    },
+    {
       "name": "Mogu_Pro",
       "url": "https://emby-icon.vercel.app/icons/Mogu_Pro.PNG"
     },
@@ -13153,6 +13169,10 @@
     {
       "name": "moli-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/moli-emby.png"
+    },
+    {
+      "name": "moli｜茉莉动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/moli-animated-01.gif"
     },
     {
       "name": "Mom-and-Dad-014",
@@ -15277,6 +15297,10 @@
     {
       "name": "PandaTV XiongMao 03",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PandaTV-03.png"
+    },
+    {
+      "name": "panda｜熊猫动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/panda-animated-01.gif"
     },
     {
       "name": "pandaxiongmao-emby",
@@ -18221,6 +18245,10 @@
     {
       "name": "shiguang-lightingTimes-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/shiguang-lightingTimes-emby.png"
+    },
+    {
+      "name": "shiguang｜拾光动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shiguang-animated-01.gif"
     },
     {
       "name": "Shijiexian1",
@@ -23183,6 +23211,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/xiatian-emby.png"
     },
     {
+      "name": "xiatian｜夏天动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/xiatian-animated-01.gif"
+    },
+    {
       "name": "西瓜",
       "url": "https://cdn.imgos.cn/vip/2026/02/27/69a12182292b5.png"
     },
@@ -24111,6 +24143,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuchu-01.png"
     },
     {
+      "name": "yuchu｜予初动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuchu-animated-01.gif"
+    },
+    {
       "name": "月",
       "url": "https://cdn.imgos.cn/vip/2026/03/04/69a80cb5c0f5b.jpg"
     },
@@ -24553,6 +24589,10 @@
     {
       "name": "zhezhiyishu-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/zhezhiyishu-emby.png"
+    },
+    {
+      "name": "zhezhi｜折纸动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/zhezhi-animated-01.gif"
     },
     {
       "name": "ZhiPianRen 01",
@@ -28805,6 +28845,10 @@
     {
       "name": "105° Ciallo 03",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/105-03.png"
+    },
+    {
+      "name": "111垃圾 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/111-laji-animated-01.gif"
     },
     {
       "name": "0113",
