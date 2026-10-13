@@ -1,6 +1,6 @@
 {
   "name": "良友原创图标库",
-  "description": "小红书：良哥看未来原创｜更新时间：2026年10月11日",
+  "description": "小红书：良哥看未来原创｜更新时间：2026年10月13日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -95,6 +95,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/chencheng-animated-01.gif"
     },
     {
+      "name": "CineTrail｜影迹动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/cinetrail-animated-01.gif"
+    },
+    {
       "name": "di｜帝服透明版 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/di-transparent-01.png"
     },
@@ -109,6 +113,10 @@
     {
       "name": "Ember 动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/ember-animated-01.gif"
+    },
+    {
+      "name": "Emos 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/emos-animated-01.gif"
     },
     {
       "name": "feiyue｜非越媒体库 01",
@@ -151,6 +159,10 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/leguan-01.jpg"
     },
     {
+      "name": "lewa｜乐蛙动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/lewa-animated-01.gif"
+    },
+    {
       "name": "linjing｜临境动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/linjing-animated-01.gif"
     },
@@ -163,12 +175,24 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liuguanghualang-transparent-01.png"
     },
     {
+      "name": "long｜龙服动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/long-animated-01.gif"
+    },
+    {
+      "name": "maowo｜猫窝动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/maowo-animated-01.gif"
+    },
+    {
       "name": "mbmenbao｜闷豹透明版 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mbmenbao-transparent-01.png"
     },
     {
       "name": "mdl｜麦当劳 02",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mdl-02.jpg"
+    },
+    {
+      "name": "mdl｜麦当劳动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mdl-animated-01.gif"
     },
     {
       "name": "mdl｜麦当劳羊年限定 01",
@@ -205,6 +229,10 @@
     {
       "name": "Omega 动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/omega-animated-01.gif"
+    },
+    {
+      "name": "OWN 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/own-animated-01.gif"
     },
     {
       "name": "panda｜熊猫动态 01",
@@ -259,12 +287,20 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/tanhuatv-transparent-01.png"
     },
     {
+      "name": "taozi｜桃子动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/taozi-animated-01.gif"
+    },
+    {
       "name": "tiannan｜天南动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/tiannan-animated-01.gif"
     },
     {
       "name": "vody 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/vody-01.png"
+    },
+    {
+      "name": "wenjian115｜稳健115动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/wenjian115-animated-01.gif"
     },
     {
       "name": "wenjian｜稳健动态 01",
@@ -313,6 +349,10 @@
     {
       "name": "yuebing｜月饼 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuebing-01.png"
+    },
+    {
+      "name": "yuebing｜月饼动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuebing-animated-01.gif"
     },
     {
       "name": "yueka｜月卡体验服 01",

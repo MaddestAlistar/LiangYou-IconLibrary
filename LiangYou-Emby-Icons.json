@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026年10月11日",
+  "description": "小红书：良哥看未来整理｜更新时间：2026年10月13日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -3311,6 +3311,10 @@
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CineTrail-02.png"
     },
     {
+      "name": "CineTrail｜影迹动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/cinetrail-animated-01.gif"
+    },
+    {
       "name": "City-of-God-033",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/City-of-God-033.png"
     },
@@ -5381,6 +5385,10 @@
     {
       "name": "emos 04",
       "url": "https://cdn.imgos.cn/vip/2026/01/06/695d0e3e33c61.png"
+    },
+    {
+      "name": "Emos 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/emos-animated-01.gif"
     },
     {
       "name": "emos-emby",
@@ -10803,6 +10811,10 @@
       "url": "https://cdn.imgos.cn/vip/2026/04/23/69e9cf03b88bc.png"
     },
     {
+      "name": "lewa｜乐蛙动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/lewa-animated-01.gif"
+    },
+    {
       "name": "Lewamovie",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Lewamovie.png"
     },
@@ -11455,6 +11467,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Longlegs-03.png"
     },
     {
+      "name": "long｜龙服动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/long-animated-01.gif"
+    },
+    {
       "name": "LongPorn",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongPorn.png"
     },
@@ -12103,6 +12119,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/maowo-emby.png"
     },
     {
+      "name": "maowo｜猫窝动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/maowo-animated-01.gif"
+    },
+    {
       "name": "MaoWoYingShi 01",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MaoWoYingShi-01.png"
     },
@@ -12325,6 +12345,10 @@
     {
       "name": "mdl｜麦当劳 02",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mdl-02.jpg"
+    },
+    {
+      "name": "mdl｜麦当劳动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mdl-animated-01.gif"
     },
     {
       "name": "mdl｜麦当劳羊年限定 01",
@@ -15161,6 +15185,10 @@
     {
       "name": "Own",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OwnEmby.png"
+    },
+    {
+      "name": "OWN 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/own-animated-01.gif"
     },
     {
       "name": "own-emby",
@@ -19819,6 +19847,10 @@
       "url": "https://s3.bmp.ovh/2026/09/15/jwJA7rBJ.jpg"
     },
     {
+      "name": "taozi｜桃子动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/taozi-animated-01.gif"
+    },
+    {
       "name": "Tar-22",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Tar-22.png"
     },
@@ -22687,6 +22719,10 @@
       "url": "https://emby-icon.vercel.app/icons/Wenjian_115.PNG"
     },
     {
+      "name": "wenjian115｜稳健115动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/wenjian115-animated-01.gif"
+    },
+    {
       "name": "Wenjian_Audiobook",
       "url": "https://emby-icon.vercel.app/icons/Wenjian_Audiobook.PNG"
     },
@@ -24201,6 +24237,10 @@
     {
       "name": "yuebing｜月饼 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuebing-01.png"
+    },
+    {
+      "name": "yuebing｜月饼动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuebing-animated-01.gif"
     },
     {
       "name": "Yuebing_z1",
