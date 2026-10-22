@@ -5,32 +5,33 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/repair-motion-icons.yml"
+      - "maintenance/repair_motion_icons.py"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  repair-motion-gifs-and-webp:
+  rebuild-gifs:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: Check out icon library
         uses: actions/checkout@v4
-      - name: Ensure FFmpeg
+      - name: Ensure FFmpeg is installed
         shell: bash
         run: command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
-      - name: Rebuild ten GIFs and ten high-fidelity WebPs from original Motion JPGs
+      - name: Rebuild ten original-format GIFs
         run: python3 maintenance/repair_motion_icons.py
-      - name: Commit optimized replacements
+      - name: Commit only the replacement GIF files
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add icons/liangyou/*-animated-01.gif icons/liangyou/*-animated-01.webp LiangYou-HD-Animated-Icons.json
+          git add icons/liangyou/*-animated-01.gif
           if git diff --cached --quiet; then
-            echo "No changed animated icons"
+            echo "No changed GIFs"
             exit 0
           fi
-          git commit -m "Rebuild ten motion icons at 25fps and add source-frame WebP HD versions"
+          git commit -m "Restore ten motion icons as smooth 25fps GIFs"
           git push origin HEAD:main
