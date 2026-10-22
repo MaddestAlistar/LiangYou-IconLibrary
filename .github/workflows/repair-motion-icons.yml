@@ -33,5 +33,5 @@ jobs:
             echo "No changed GIFs"
             exit 0
           fi
-          git commit -m "Restore ten motion icons as smooth 25fps GIFs"
+          git commit -m "Restore ten motion icons as smooth 12fps GIFs"
           git push origin HEAD:main
