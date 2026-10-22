@@ -41,9 +41,9 @@ def main():
             if (int(info["width"]), int(info["height"]), info["avg_frame_rate"]) != (720, 720, "24/1"):
                 raise ValueError("Unexpected source video: " + stem)
             expected = int(info["nb_frames"])
-            # GIF-compatible, 25 fps gives an exact, stable 40 ms frame delay.
+            # GIF-compatible, 12 fps yields the same 80/90 ms GIF timing as the established original icons.
             # Per-clip palette and Sierra dithering avoid the heavy color loss of tiny GIF exports.
-            filters = "fps=25,scale=320:-1:flags=lanczos"
+            filters = "fps=12,scale=320:-1:flags=lanczos"
             run("ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(movie),
                 "-vf", filters + ",palettegen=max_colors=256:stats_mode=full", str(palette))
             run("ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(movie),
@@ -56,7 +56,7 @@ def main():
                 "-of", "json", str(output)], text=True))["streams"][0]
             count = int(stream["nb_read_frames"])
             if ((int(stream["width"]), int(stream["height"])) != (320, 320)
-                    or count < expected or not output.read_bytes().startswith(b"GIF89a")
+                    or count < int(expected * 0.45) or count > expected or not output.read_bytes().startswith(b"GIF89a")
                     or output.stat().st_size < 200_000):
                 raise ValueError("Unexpected output GIF: " + stem)
             output.replace(gif)
