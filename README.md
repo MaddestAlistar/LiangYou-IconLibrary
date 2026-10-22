@@ -14,7 +14,15 @@
 
 动态款在名称中标注「动态」，以循环 GIF 提供，是否播放动画取决于播放器支持情况。2026-10-13 批次的原始实况照片（含内嵌动画）完整保存在 [本批次原文件](sources/liangyou/2026-10-13/)；历史原文件继续保存在 [原文件目录](sources/liangyou/)。
 
-本批原尺寸 JPG 保留为静态图片，另上传 `*-animated-01.gif` 动态版本，供支持 GIF 动画的播放器使用。两类图标均可通过订阅检索；原有图标不覆盖。
+本批原尺寸 JPG 保留为静态图片，动态 GIF 直接从原始 JPG 内嵌的 720×720 / 24FPS 视频重新生成，兼容版采用 320×320 / 25FPS。另提供 480×480 / 原生 24FPS 高清动画 WebP，颜色更完整、保留全部原始视频帧。**WebP 仅推荐给支持动画 WebP 的播放器**；GIF 兼容性更广，但受 256 色调色板限制。原有静态款不覆盖，两份现有订阅地址不变。
+
+## 高清动态图标订阅（WebP）
+
+新增 10 个高清动态 WebP，与原有 GIF 并行保留；仅建议用于支持动画 WebP 的播放器：
+
+```text
+https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/LiangYou-HD-Animated-Icons.json
+```
 
 ## 原创图标订阅
 
