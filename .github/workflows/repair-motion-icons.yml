@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  repair-motion-gifs:
+  repair-motion-gifs-and-webp:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
@@ -20,17 +20,17 @@ jobs:
       - name: Ensure FFmpeg
         shell: bash
         run: command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
-      - name: Rebuild the ten GIFs from original Motion JPGs
+      - name: Rebuild ten GIFs and ten high-fidelity WebPs from original Motion JPGs
         run: python3 maintenance/repair_motion_icons.py
       - name: Commit optimized replacements
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add icons/liangyou/*-animated-01.gif
+          git add icons/liangyou/*-animated-01.gif icons/liangyou/*-animated-01.webp LiangYou-HD-Animated-Icons.json
           if git diff --cached --quiet; then
-            echo "No changed GIFs"
+            echo "No changed animated icons"
             exit 0
           fi
-          git commit -m "Improve color and frame rate of ten motion icons"
+          git commit -m "Rebuild ten motion icons at 25fps and add source-frame WebP HD versions"
           git push origin HEAD:main
