@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026年10月13日",
+  "description": "小红书：良哥看未来整理｜更新时间：2026年10月22日",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -2993,6 +2993,10 @@
     {
       "name": "chencheng-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chencheng-emby.png"
+    },
+    {
+      "name": "chenyu｜宸宇 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/chenyu-01.jpg"
     },
     {
       "name": "Cherry-emby",
@@ -8203,6 +8207,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/helterskelter003.png"
     },
     {
+      "name": "hemaxiansheng｜盒马鲜生 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/hemaxiansheng-01.jpg"
+    },
+    {
       "name": "Henry-Sugar-33",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Henry-Sugar-33.png"
     },
@@ -9897,6 +9905,10 @@
     {
       "name": "Key-Largo-48",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Key-Largo-48.png"
+    },
+    {
+      "name": "KFC｜肯德基 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/kfc-01.jpg"
     },
     {
       "name": "KFC 01",
@@ -13139,6 +13151,10 @@
       "url": "https://emby-icon.vercel.app/icons/Mogu.PNG"
     },
     {
+      "name": "mogu-ultra｜蘑菇Ultra 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/mogu-ultra-01.jpg"
+    },
+    {
       "name": "Mogul-Mowgli-037",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Mogul-Mowgli-037.png"
     },
@@ -14341,6 +14357,10 @@
     {
       "name": "Nirvana",
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nirvana.png"
+    },
+    {
+      "name": "niubi｜牛逼 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/niubi-01.jpg"
     },
     {
       "name": "NiuBi 01",
@@ -17921,6 +17941,10 @@
     {
       "name": "SDX 动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/sdx-animated-01.gif"
+    },
+    {
+      "name": "sdx-life｜SDX Life 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/sdx-life-01.jpg"
     },
     {
       "name": "Sea-Fever-050",
@@ -22563,6 +22587,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/We-Are-Zombies-47.png"
     },
     {
+      "name": "we-emby｜We Emby 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/we-emby-01.jpg"
+    },
+    {
       "name": "Webdav",
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"
     },
@@ -24391,6 +24419,10 @@
       "url": "https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Fang/icon/Yunhai.png"
     },
     {
+      "name": "yunhai｜云海 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yunhai-01.jpg"
+    },
+    {
       "name": "yunhai1 01",
       "url": "https://cdn.imgos.cn/vip/2026/01/08/695fcbffeadeb.jpeg"
     },
@@ -24571,6 +24603,10 @@
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ZhenYing.png"
     },
     {
+      "name": "zhenying｜臻影 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/zhenying-01.jpg"
+    },
+    {
       "name": "zhenying-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/zhenying-emby.png"
     },
@@ -24589,6 +24625,10 @@
     {
       "name": "Zhezhi_3",
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Zhezhi_3.png"
+    },
+    {
+      "name": "zhezhimao｜这只猫 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/zhezhimao-01.jpg"
     },
     {
       "name": "ZheZhiMao ZZM 01",
