@@ -21,7 +21,7 @@ jobs:
       - name: Ensure FFmpeg is installed
         shell: bash
         run: command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
-      - name: Rebuild ten original-format GIFs
+      - name: Rebuild seven stuttering original-format GIFs
         run: python3 maintenance/repair_motion_icons.py
       - name: Commit only the replacement GIF files
         shell: bash
@@ -33,5 +33,5 @@ jobs:
             echo "No changed GIFs"
             exit 0
           fi
-          git commit -m "Restore ten motion icons as smooth 12fps GIFs"
+          git commit -m "Reduce decode load of seven motion GIFs for CapyPlayer and EplayerX"
           git push origin HEAD:main

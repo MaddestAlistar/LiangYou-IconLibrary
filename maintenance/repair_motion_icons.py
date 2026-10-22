@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh the ten October 22 Motion Photo icons as the library's standard looping GIFs.
+"""Optimize seven reported-stuttering Motion Photo GIFs for icon-list renderers.
 
 Only writes GIFs; preserves existing file paths, subscriptions, and older icons.
 The original embedded 720px/24fps video is used, never a previously compressed GIF.
@@ -12,8 +12,8 @@ import tempfile
 ROOT = Path(__file__).resolve().parents[1]
 ICONS = ROOT / "icons" / "liangyou"
 STEMS = (
-    "chenyu", "hemaxiansheng", "kfc", "mogu-ultra", "niubi",
-    "sdx-life", "we-emby", "yunhai", "zhenying", "zhezhimao",
+    "hemaxiansheng", "kfc", "mogu-ultra", "niubi",
+    "sdx-life", "we-emby", "yunhai",
 )
 
 def run(*args):
@@ -41,14 +41,15 @@ def main():
             if (int(info["width"]), int(info["height"]), info["avg_frame_rate"]) != (720, 720, "24/1"):
                 raise ValueError("Unexpected source video: " + stem)
             expected = int(info["nb_frames"])
-            # GIF-compatible, 12 fps yields the same 80/90 ms GIF timing as the established original icons.
-            # Per-clip palette and Sierra dithering avoid the heavy color loss of tiny GIF exports.
+            # Match established older GIFs: 320px, 12fps, 80/90ms frame delays.
+            # Keep all 256 palette entries; avoid spatial dithering noise which changes static
+            # pixels between frames and increases data/compositing load in icon-list views.
             filters = "fps=12,scale=320:-1:flags=lanczos"
             run("ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(movie),
                 "-vf", filters + ",palettegen=max_colors=256:stats_mode=full", str(palette))
             run("ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(movie),
                 "-i", str(palette), "-lavfi",
-                filters + "[x];[x][1:v]paletteuse=dither=sierra2_4a:diff_mode=rectangle",
+                filters + "[x];[x][1:v]paletteuse=dither=none:diff_mode=rectangle",
                 "-loop", "0", str(output))
             stream = json.loads(subprocess.check_output([
                 "ffprobe", "-v", "error", "-count_frames", "-select_streams", "v:0",
@@ -61,7 +62,7 @@ def main():
                 raise ValueError("Unexpected output GIF: " + stem)
             output.replace(gif)
             print(f"Updated {stem}: source {expected} frames -> GIF {count} frames ({gif.stat().st_size} bytes)")
-    print("Exactly ten GIF paths refreshed; no extra formats or subscriptions created.")
+    print("Exactly seven GIF paths optimized; three unaffected motion GIFs untouched.")
 
 if __name__ == "__main__":
     main()
