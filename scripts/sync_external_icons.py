@@ -33,7 +33,7 @@ def valid_url(value):
     return u.scheme == "https" and bool(u.hostname) and u.hostname not in ("localhost", "127.0.0.1")
 
 def name_base(name):
-    return re.sub(r"\\s+0*[0-9]+$", "", str(name).strip())
+    return re.sub(r"\s+0*[0-9]+$", "", str(name).strip())
 
 def main():
     feeds = {}
@@ -98,7 +98,7 @@ def main():
         rest = catalog["icons"][5:]
         rest.sort(key=lambda x: (bool(re.match(r"^[0-9]", str(x.get("name", "")))), str(x.get("name", "")).casefold()))
         catalog["icons"] = pinned + rest
-        catalog["description"] = re.sub(r"更新时间：\\d{4}-\\d{2}-\\d{2}", "更新时间：" + now, str(catalog.get("description", "")))
+        catalog["description"] = re.sub(r"更新时间：\d{4}-\d{2}-\d{2}", "更新时间：" + now, str(catalog.get("description", "")))
         TARGET.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
