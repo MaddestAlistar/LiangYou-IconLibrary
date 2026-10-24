@@ -1,0 +1,34 @@
+name: Sync new external media icons
+on:
+  schedule:
+    # 23:50 Asia/Shanghai = 15:50 UTC, no daylight saving time
+    - cron: "50 15 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sync-external-icons
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Read source feeds and add new icons
+        run: python scripts/sync_external_icons.py
+      - name: Commit new icons and tracking state
+        run: |
+          if git diff --quiet -- LiangYou-Emby-Icons.json data/external-icon-sync-state.json && [ -z "$(git ls-files --others --exclude-standard data/external-icon-sync-state.json)" ]; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add LiangYou-Emby-Icons.json data/external-icon-sync-state.json
+          git commit -m "chore: sync newly added external media icons"
+          git pull --rebase origin main
+          git push origin HEAD:main
