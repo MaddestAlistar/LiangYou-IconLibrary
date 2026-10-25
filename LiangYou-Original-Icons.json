@@ -27,12 +27,12 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-komic.png"
     },
     {
-      "name": "111垃圾 动态 01",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/111-laji-animated-01.gif"
-    },
-    {
       "name": "无限盾牌透明版 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/infinity-shield-transparent-01.png"
+    },
+    {
+      "name": "云海 PRON 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/pron-animated-01.gif"
     },
     {
       "name": "Alpha 动态 01",
@@ -461,6 +461,10 @@
     {
       "name": "zhongdianzhan｜终点站动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/zhongdianzhan-animated-01.gif"
+    },
+    {
+      "name": "111垃圾 动态 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/111-laji-animated-01.gif"
     }
   ]
-}
+}\n
