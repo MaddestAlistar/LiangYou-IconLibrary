@@ -1,6 +1,6 @@
 {
   "name": "良友原创图标库",
-  "description": "小红书：良哥看未来原创｜更新时间：2026-10-24",
+  "description": "小红书：良哥看未来原创｜更新时间：2026-10-25",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -21,6 +21,10 @@
     {
       "name": "良友-熊猫",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-panda.jpeg"
+    },
+    {
+      "name": "良友-Komic",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/liangyou-komic.png"
     },
     {
       "name": "111垃圾 动态 01",
