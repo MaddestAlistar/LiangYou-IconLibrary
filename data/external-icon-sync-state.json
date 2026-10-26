@@ -124,6 +124,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Liminal-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/LiminalLite-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/LiuYingShe-emby.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Lumen-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Lunaris(1)-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Lunaris-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/LunarisVault(1)-emby.png",
@@ -192,6 +193,8 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Terminus-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Terminus-zhongdianzhan-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/TreeDiagram-emby.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/UHD(1)-emby.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/UHD(2)-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/UHD-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/UHD.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Unbound-emby.png",
@@ -1333,8 +1336,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-10-26",
-  "lastAdded": 0,
+  "checkedAt": "2026-10-27",
+  "lastAdded": 3,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "sooyaaabo": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json"
