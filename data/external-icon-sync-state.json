@@ -605,6 +605,7 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-04.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-05.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-06.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/9527Emby.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AList.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ALittleTea.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AWATV-01.png",
@@ -1336,8 +1337,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-10-28",
-  "lastAdded": 0,
+  "checkedAt": "2026-10-29",
+  "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "sooyaaabo": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json"
