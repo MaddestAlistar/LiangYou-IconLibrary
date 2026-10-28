@@ -1,6 +1,6 @@
 {
   "name": "良友原创图标库",
-  "description": "小红书：良哥看未来原创｜更新时间：2026-10-26",
+  "description": "小红书：良哥看未来原创｜更新时间：2026-10-28",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -485,6 +485,10 @@
     {
       "name": "111垃圾 动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/111-laji-animated-01.gif"
+    },
+    {
+      "name": "9527 Cinema",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261028061847637-3c2f982d.jpg"
     }
   ]
 }
