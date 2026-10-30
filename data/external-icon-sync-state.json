@@ -668,6 +668,7 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChefsSecretMenu.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-02.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-03.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-03.png",
@@ -936,6 +937,7 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LollipopEmby-06.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongEmby.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongPorn.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongccEmby.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-03.png",
@@ -1337,8 +1339,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-10-30",
-  "lastAdded": 0,
+  "checkedAt": "2026-10-31",
+  "lastAdded": 2,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "sooyaaabo": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json"
