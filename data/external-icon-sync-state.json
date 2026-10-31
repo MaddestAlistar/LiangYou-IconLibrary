@@ -244,6 +244,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chabaoteabag-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/charon-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chencheng(1)-emby.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chencheng(2)-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chencheng-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chenyu(1)-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chenyu-emby.png",
@@ -1339,8 +1340,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-10-31",
-  "lastAdded": 2,
+  "checkedAt": "2026-11-01",
+  "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "sooyaaabo": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json"
