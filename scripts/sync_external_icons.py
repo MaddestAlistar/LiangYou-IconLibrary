@@ -16,6 +16,7 @@ TARGET = ROOT / "LiangYou-Emby-Icons.json"
 STATE = ROOT / "data" / "external-icon-sync-state.json"
 SOURCES = {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
+    "ligeicon": "https://raw.githubusercontent.com/lige47/lige_icon/main/ligeicon.json",
     "sooyaaabo": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby-Icon.json",
 }
 
