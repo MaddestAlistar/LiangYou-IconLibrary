@@ -93,22 +93,23 @@ def main():
     state["checkedAt"] = now
     state["lastAdded"] = added
     state["sources"] = SOURCES
-    if added:
-        pinned = catalog["icons"][:5]
-        # Keep our curated motion GIFs immediately after the five exclusive icons.
-        # Only files under this repository's icons/liangyou/ count as curated:
-        # external feed GIFs remain in the regular alphabetical catalog.
-        def is_curated_motion_icon(item):
-            path = urlsplit(str(item.get("url", ""))).path.lower()
-            return (path.startswith("/maddestalistar/liangyou-iconlibrary/main/icons/liangyou/")
-                    and path.endswith(".gif"))
+    # Always reapply pinned ordering, including when no external feed icon was added.
+    # This also places newly approved local GIFs at the front on the next sync.
+    def is_curated_motion_icon(item):
+        path = urlsplit(str(item.get("url", ""))).path.lower()
+        return (path.startswith("/maddestalistar/liangyou-iconlibrary/main/icons/liangyou/")
+                and path.endswith(".gif"))
 
-        remaining = catalog["icons"][5:]
-        featured = [item for item in remaining if is_curated_motion_icon(item)]
-        rest = [item for item in remaining if not is_curated_motion_icon(item)]
-        rest.sort(key=lambda x: (bool(re.match(r"^[0-9]", str(x.get("name", "")))), str(x.get("name", "")).casefold()))
-        catalog["icons"] = pinned + featured + rest
-        catalog["description"] = re.sub(r"更新时间：\d{4}-\d{2}-\d{2}", "更新时间：" + now, str(catalog.get("description", "")))
+    pinned = catalog["icons"][:5]
+    remaining = catalog["icons"][5:]
+    featured = [item for item in remaining if is_curated_motion_icon(item)]
+    rest = [item for item in remaining if not is_curated_motion_icon(item)]
+    rest.sort(key=lambda x: (bool(re.match(r"^[0-9]", str(x.get("name", "")))), str(x.get("name", "")).casefold()))
+    ordered = pinned + featured + rest
+    if added or ordered != catalog["icons"]:
+        catalog["icons"] = ordered
+        if added:
+            catalog["description"] = re.sub(r"更新时间：\d{4}-\d{2}-\d{2}", "更新时间：" + now, str(catalog.get("description", "")))
         TARGET.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
