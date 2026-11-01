@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-01",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-02",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -1819,6 +1819,10 @@
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BaiDuYun.png"
     },
     {
+      "name": "baihuajuyuan-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/baihuajuyuan-emby.png"
+    },
+    {
       "name": "baihuajuyuan｜百花剧院 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/baihuajuyuan-01.jpg"
     },
@@ -1853,6 +1857,10 @@
     {
       "name": "baimingdan｜白名单 02",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/baimingdan-02.png"
+    },
+    {
+      "name": "baipiao-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/baipiao-emby.png"
     },
     {
       "name": "Baipiao1",
@@ -1989,6 +1997,10 @@
     {
       "name": "BB",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBQAQEmby.png"
+    },
+    {
+      "name": "bb-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/bb-emby.png"
     },
     {
       "name": "BB-Inside-39",
@@ -2477,6 +2489,10 @@
     {
       "name": "boardinggate022",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/boardinggate022.png"
+    },
+    {
+      "name": "Bocchijieshu(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Bocchijieshu(1)-emby.png"
     },
     {
       "name": "Bocchijieshu-emby",
@@ -3171,6 +3187,10 @@
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-02.png"
     },
     {
+      "name": "chencheng(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chencheng(1)-emby.png"
+    },
+    {
       "name": "chencheng(2)-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chencheng(2)-emby.png"
     },
@@ -3201,6 +3221,14 @@
     {
       "name": "ChenYu 03",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-03.png"
+    },
+    {
+      "name": "chenyu(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chenyu(1)-emby.png"
+    },
+    {
+      "name": "chenyu-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/chenyu-emby.png"
     },
     {
       "name": "chenyu｜宸宇 01",
@@ -4001,6 +4029,10 @@
     {
       "name": "dabotv2",
       "url": "https://s3.bmp.ovh/imgs/2025/12/23/588df32208f702d7.jpg"
+    },
+    {
+      "name": "dachuchefs-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/dachuchefs-emby.png"
     },
     {
       "name": "dada 01",
@@ -8287,6 +8319,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/helterskelter003.png"
     },
     {
+      "name": "hemashengxian-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/hemashengxian-emby.png"
+    },
+    {
       "name": "hemaxiansheng｜盒马鲜生 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/hemaxiansheng-01.jpg"
     },
@@ -11099,6 +11135,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Liminal(3)-emby.png"
     },
     {
+      "name": "Liminal(4)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Liminal(4)-emby.png"
+    },
+    {
       "name": "Liminal-2.0",
       "url": "https://s3.bmp.ovh/2026/03/21/pz91PWei.jpg"
     },
@@ -11463,6 +11503,10 @@
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Longemby_2.png"
     },
     {
+      "name": "longgong-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/longgong-emby.png"
+    },
+    {
       "name": "Longlegs-03",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Longlegs-03.png"
     },
@@ -11785,6 +11829,10 @@
     {
       "name": "Luxrealm-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Luxrealm-emby.png"
+    },
+    {
+      "name": "luxrealm-emby (2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/luxrealm-emby%20(2).png"
     },
     {
       "name": "Luz-021",
@@ -13679,6 +13727,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/mysteryteam017.png"
     },
     {
+      "name": "nahanguai-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/nahanguai-emby.png"
+    },
+    {
       "name": "Naiko",
       "url": "https://s3.bmp.ovh/2026/07/31/W3XslUER.png"
     },
@@ -14253,6 +14305,10 @@
     {
       "name": "Nijigen ErCiYuan 03",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NijigenEmby-03.png"
+    },
+    {
+      "name": "nijigen-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/nijigen-emby.png"
     },
     {
       "name": "Nijigen1",
@@ -15257,6 +15313,10 @@
     {
       "name": "pangxie",
       "url": "https://cdn.imgos.cn/vip/2026/01/09/696071e6d899f.png"
+    },
+    {
+      "name": "pangxie(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/pangxie(1)-emby.png"
     },
     {
       "name": "pangxie(2)Qtecrab-emby",
@@ -17131,6 +17191,10 @@
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Robo2.png"
     },
     {
+      "name": "robo(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/robo(1)-emby.png"
+    },
+    {
       "name": "Robo-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Robo-emby.png"
     },
@@ -17861,6 +17925,10 @@
     {
       "name": "senplayer",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/senplayer.png"
+    },
+    {
+      "name": "senplayer 02",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/senplayer.png"
     },
     {
       "name": "Seoul",
@@ -19217,6 +19285,10 @@
     {
       "name": "Starve-Acre-23",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Starve-Acre-23.png"
+    },
+    {
+      "name": "staryuki-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/staryuki-emby.png"
     },
     {
       "name": "Starz1",
@@ -23109,6 +23181,10 @@
     {
       "name": "xingmuNookReel-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/xingmuNookReel-emby.png"
+    },
+    {
+      "name": "xingmunova-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/xingmunova-emby.png"
     },
     {
       "name": "xingyinng-Lanxuan-emby",
