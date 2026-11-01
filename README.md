@@ -8,7 +8,7 @@
 
 由良哥看未来精选整理、持续维护的媒体图标集合。统一检索名称，同名款式以数字编号区分，让选图更方便。
 
-**7,482 个图标 · 5 个良友专属图标 + 56 个精选动态图标置顶 · 更新于 2026-11-02**
+**8,458 个图标 · 5 个良友专属图标 + 56 个精选动态图标置顶 · 更新于 2026-11-02**
 
 现有 **141 个良哥看未来提供的精选与专属图标**，图片存放在 `icons/liangyou/`。2026-10-22 新增 10 张原尺寸 JPG 图标，并追加对应的 10 张循环 GIF 动态版本：宸宇、盒马鲜生、肯德基、蘑菇Ultra、牛逼、SDX Life、We Emby、云海、臻影、这只猫。原有 93 张图标、5 张置顶专属图标及订阅地址均保留。
 
@@ -29,6 +29,8 @@ https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/Liang
 ## 完整版订阅
 
 包含原创图标和精选扩展图标，原订阅地址保持不变。
+
+已接入 `lige-emby-icon.json`、`Emby-Icon.json` 和 `ligeicon.json` 三个上游图标源。2026-11-02 从 `ligeicon.json` 去重新增 976 个 PNG 图标；每日 23:50 的自动同步任务会继续检查这些来源。
 
 ```text
 https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/LiangYou-Emby-Icons.json
