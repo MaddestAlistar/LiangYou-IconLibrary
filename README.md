@@ -30,8 +30,6 @@ https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/Liang
 
 包含原创图标和精选扩展图标，原订阅地址保持不变。
 
-已接入 `lige-emby-icon.json`、`Emby-Icon.json` 和 `ligeicon.json` 三个上游图标源。2026-11-02 从 `ligeicon.json` 去重新增 976 个 PNG 图标；每日 23:50 的自动同步任务会继续检查这些来源。
-
 ```text
 https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/LiangYou-Emby-Icons.json
 ```
