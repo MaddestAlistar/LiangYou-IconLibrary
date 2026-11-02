@@ -105,7 +105,33 @@ def main():
     remaining = catalog["icons"][5:]
     featured = [item for item in remaining if is_curated_motion_icon(item)]
     rest = [item for item in remaining if not is_curated_motion_icon(item)]
-    rest.sort(key=lambda x: (bool(re.match(r"^[0-9]", str(x.get("name", "")))), str(x.get("name", "")).casefold()))
+    # Keep the Shangdaoji variants together, with character variants last.
+    shangdaoji_order = [
+        "上岛记-取餐｜科技版",
+        "上岛记-快递｜科技版",
+        "上岛记-票券｜科技版",
+        "上岛记-券码｜科技版",
+        "上岛记-车票｜科技版",
+        "上岛记-机票｜科技版",
+        "上岛记-取餐｜简约版",
+        "上岛记-快递｜简约版",
+        "上岛记-票券｜简约版",
+        "上岛记-券码｜简约版",
+        "上岛记-车票｜简约版",
+        "上岛记-机票｜简约版",
+        "上岛记-取餐｜熊猫科技",
+        "上岛记-快递｜熊猫科技",
+        "上岛记-取餐｜猫咪简约",
+        "上岛记-快递｜小狗简约",
+    ]
+    shangdaoji_rank = {name: i for i, name in enumerate(shangdaoji_order)}
+    def icon_sort_key(item):
+        name = str(item.get("name", ""))
+        starts_with_digit = bool(re.match(r"^[0-9]", name))
+        if name in shangdaoji_rank:
+            return (starts_with_digit, "上岛记-", shangdaoji_rank[name])
+        return (starts_with_digit, name.casefold(), 0)
+    rest.sort(key=icon_sort_key)
     ordered = pinned + featured + rest
     if added or ordered != catalog["icons"]:
         catalog["icons"] = ordered

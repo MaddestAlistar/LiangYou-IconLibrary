@@ -339,12 +339,12 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/fw-01.png"
     },
     {
-      "name": "guai｜透明版 01",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/guai-transparent-01.png"
-    },
-    {
       "name": "guaiPro 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/guaipro-01.png"
+    },
+    {
+      "name": "guai｜透明版 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/guai-transparent-01.png"
     },
     {
       "name": "guanyingbaohao｜观影保号 01",
@@ -495,12 +495,12 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/youqibing-transparent-01.png"
     },
     {
-      "name": "yuchu｜予初 01",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuchu-01.png"
-    },
-    {
       "name": "yuchupro｜予初pro 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuchupro-01.png"
+    },
+    {
+      "name": "yuchu｜予初 01",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/yuchu-01.png"
     },
     {
       "name": "yuebing｜月饼 01",
@@ -531,68 +531,68 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/zhezhimao-01.jpg"
     },
     {
-      "name": "上岛记-券码",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-coupon-code.jpg"
-    },
-    {
-      "name": "上岛记-券码-科技版",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-coupon-code-neon.png"
-    },
-    {
-      "name": "上岛记-取餐",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout.jpg"
-    },
-    {
-      "name": "上岛记-取餐-猫咪",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout-cat.jpg"
-    },
-    {
-      "name": "上岛记-取餐-科技版",
+      "name": "上岛记-取餐｜科技版",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout-neon.png"
     },
     {
-      "name": "上岛记-快递",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery.jpg"
-    },
-    {
-      "name": "上岛记-快递-小狗",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery-dog.jpg"
-    },
-    {
-      "name": "上岛记-快递-科技版",
+      "name": "上岛记-快递｜科技版",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery-neon.png"
     },
     {
-      "name": "上岛记-机票",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-flight.jpg"
-    },
-    {
-      "name": "上岛记-机票-科技版",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-flight-neon.png"
-    },
-    {
-      "name": "上岛记-熊猫取餐-科技版",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout-panda-neon.png"
-    },
-    {
-      "name": "上岛记-熊猫快递-科技版",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery-panda-neon.png"
-    },
-    {
-      "name": "上岛记-票券",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-ticket.jpg"
-    },
-    {
-      "name": "上岛记-票券-科技版",
+      "name": "上岛记-票券｜科技版",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-ticket-neon.png"
     },
     {
-      "name": "上岛记-车票",
+      "name": "上岛记-券码｜科技版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-coupon-code-neon.png"
+    },
+    {
+      "name": "上岛记-车票｜科技版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-train-neon.png"
+    },
+    {
+      "name": "上岛记-机票｜科技版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-flight-neon.png"
+    },
+    {
+      "name": "上岛记-取餐｜简约版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout.jpg"
+    },
+    {
+      "name": "上岛记-快递｜简约版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery.jpg"
+    },
+    {
+      "name": "上岛记-票券｜简约版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-ticket.jpg"
+    },
+    {
+      "name": "上岛记-券码｜简约版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-coupon-code.jpg"
+    },
+    {
+      "name": "上岛记-车票｜简约版",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-train.jpg"
     },
     {
-      "name": "上岛记-车票-科技版",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-train-neon.png"
+      "name": "上岛记-机票｜简约版",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-flight.jpg"
+    },
+    {
+      "name": "上岛记-取餐｜熊猫科技",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout-panda-neon.png"
+    },
+    {
+      "name": "上岛记-快递｜熊猫科技",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery-panda-neon.png"
+    },
+    {
+      "name": "上岛记-取餐｜猫咪简约",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-takeout-cat.jpg"
+    },
+    {
+      "name": "上岛记-快递｜小狗简约",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery-dog.jpg"
     },
     {
       "name": "光影",
