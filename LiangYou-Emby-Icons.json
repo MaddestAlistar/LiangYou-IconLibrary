@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-02",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-03",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -5397,6 +5397,10 @@
     {
       "name": "Dolphin",
       "url": "https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Dolphin.png"
+    },
+    {
+      "name": "Dolphin HaiTun",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DolphinEmby.png"
     },
     {
       "name": "Domain-007",
@@ -12271,6 +12275,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Legends-of-the-Fall-023.png"
     },
     {
+      "name": "LegendVPS",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/LegendVPS.png"
+    },
+    {
       "name": "LeGuan",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LeguanEmby.png"
     },
@@ -15853,6 +15861,10 @@
     {
       "name": "Nausica-039",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Nausica-039.png"
+    },
+    {
+      "name": "Navyouqu-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Navyouqu-emby.png"
     },
     {
       "name": "Nayovo 01",
@@ -26171,6 +26183,10 @@
       "url": "https://emby-icon.vercel.app/icons/WeTV1.PNG"
     },
     {
+      "name": "wgetcloud",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/wgetcloud.png"
+    },
+    {
       "name": "What-A-Way-To-Go-57",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/What-A-Way-To-Go-57.png"
     },
@@ -28699,10 +28715,6 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/shangdaoji-delivery-dog.jpg"
     },
     {
-      "name": "光影",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102120008530-a4a78167.png"
-    },
-    {
       "name": "不吃香菜 01",
       "url": "https://cdn.imgos.cn/vip/2026/03/19/69bbf9267a41f.jpg"
     },
@@ -28757,6 +28769,10 @@
     {
       "name": "假日飞行家方形",
       "url": "https://cdn.imgos.cn/vip/2026/02/26/69a023c6d1a49.jpg"
+    },
+    {
+      "name": "光影",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102120008530-a4a78167.png"
     },
     {
       "name": "反集邮透明",
@@ -28935,14 +28951,6 @@
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/infinity-shield-transparent-01.png"
     },
     {
-      "name": "海豚",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102122939923-c9110fb4.png"
-    },
-    {
-      "name": "海豚-玩偶",
-      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102122953509-75642e60.png"
-    },
-    {
       "name": "星芽短剧",
       "url": "https://img.openharbor.dpdns.org/logos/shortdrama-platform-xingya-wordmark-v2.png"
     },
@@ -29021,6 +29029,14 @@
     {
       "name": "派拉蒙",
       "url": "https://cdn.imgos.cn/vip/2026/04/30/69f22d22b4963.png"
+    },
+    {
+      "name": "海豚",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102122939923-c9110fb4.png"
+    },
+    {
+      "name": "海豚-玩偶",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102122953509-75642e60.png"
     },
     {
       "name": "清晰版白",
@@ -33897,6 +33913,14 @@
     {
       "name": "9527",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/9527Emby.png"
+    },
+    {
+      "name": "9527 02",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/9527Emby-01.png"
+    },
+    {
+      "name": "9527 03",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/9527Emby-02.png"
     },
     {
       "name": "9527 Cinema",
