@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-03",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-04",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -8913,6 +8913,10 @@
     {
       "name": "guangya(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/guangya(1).png"
+    },
+    {
+      "name": "GuangYing",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GuangyingEmby.png"
     },
     {
       "name": "Guanying",
@@ -24913,6 +24917,14 @@
     {
       "name": "Trakt",
       "url": "https://emby-icon.vercel.app/icons/Trakt.PNG"
+    },
+    {
+      "name": "trakt 02",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/trakt.png"
+    },
+    {
+      "name": "trakt(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/trakt(1).png"
     },
     {
       "name": "Trakt_1",
