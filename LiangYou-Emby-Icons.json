@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-04",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-05",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -15871,6 +15871,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Navyouqu-emby.png"
     },
     {
+      "name": "Navyouqu9527-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Navyouqu9527-emby.png"
+    },
+    {
       "name": "Nayovo 01",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Nayovo-01.png"
     },
@@ -17257,6 +17261,10 @@
     {
       "name": "Oppenheimer-64",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Oppenheimer-64.png"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Oracle.png"
     },
     {
       "name": "Orange",
@@ -26725,6 +26733,10 @@
     {
       "name": "Xiaoyizi_emby_3",
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Xiaoyizi_emby_3.png"
+    },
+    {
+      "name": "xiaoyuzhou",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/xiaoyuzhou.png"
     },
     {
       "name": "Xiaozhuxuan 01",
