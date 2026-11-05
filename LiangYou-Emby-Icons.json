@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-05",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-06",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -5811,6 +5811,14 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/dunkirk021.png"
     },
     {
+      "name": "duolaAmeng",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/duolaAmeng.png"
+    },
+    {
+      "name": "duolaAmeng(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/duolaAmeng(1).png"
+    },
+    {
       "name": "duolingo",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/duolingo.png"
     },
@@ -8913,6 +8921,14 @@
     {
       "name": "guangya(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/guangya(1).png"
+    },
+    {
+      "name": "guangyin(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/guangyin(1)-emby.png"
+    },
+    {
+      "name": "guangyin-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/guangyin-emby.png"
     },
     {
       "name": "GuangYing",
@@ -17981,6 +17997,10 @@
     {
       "name": "Pedro-Paramo-02",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Pedro-Paramo-02.png"
+    },
+    {
+      "name": "PeekPeek",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PeekpeekEmby.png"
     },
     {
       "name": "Peeping-Tom-27",
