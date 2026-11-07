@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-06",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-08",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -1337,6 +1337,10 @@
     {
       "name": "antoine012",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/antoine012.png"
+    },
+    {
+      "name": "anxinjijiaban",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/anxinjijiaban.png"
     },
     {
       "name": "anyland",
@@ -7447,6 +7451,10 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Ferrari-14.png"
     },
     {
+      "name": "Ferrarifalali",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Ferrarifalali.png"
+    },
+    {
       "name": "Festen-04",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Festen-04.png"
     },
@@ -10897,6 +10905,10 @@
     {
       "name": "Jeanne-Dielman-022",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Jeanne-Dielman-022.png"
+    },
+    {
+      "name": "Jeeyiojiyou",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Jeeyiojiyou.png"
     },
     {
       "name": "Jekyll026",
