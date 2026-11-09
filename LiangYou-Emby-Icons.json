@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-09",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-10",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -541,6 +541,10 @@
     {
       "name": "Aeon-Flux-025",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Aeon-Flux-025.png"
+    },
+    {
+      "name": "Aetrix",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AetrixEmby.png"
     },
     {
       "name": "Afire-37",
@@ -9179,6 +9183,10 @@
       "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Handou1.png"
     },
     {
+      "name": "handou(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/handou(1)-emby.png"
+    },
+    {
       "name": "handou-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/handou-emby.png"
     },
@@ -15183,6 +15191,14 @@
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/mmxxl027.png"
     },
     {
+      "name": "mnkcloud",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/mnkcloud.png"
+    },
+    {
+      "name": "mnkcloud(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/mnkcloud(1).png"
+    },
+    {
       "name": "mogu 01",
       "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/mogu.png"
     },
@@ -16661,6 +16677,10 @@
     {
       "name": "NovaHelix Streamix",
       "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NovaHelix.png"
+    },
+    {
+      "name": "NovoNET",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/NovoNET.png"
     },
     {
       "name": "now",
