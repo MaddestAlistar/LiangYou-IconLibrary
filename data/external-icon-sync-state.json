@@ -1294,6 +1294,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/69yun.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/98k.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/AiDeer.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Airrail.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/AladdinLottery(1).png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/AladdinLottery.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Alphaio.png",
@@ -2381,8 +2382,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-10",
-  "lastAdded": 5,
+  "checkedAt": "2026-11-11",
+  "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "ligeicon": "https://raw.githubusercontent.com/lige47/lige_icon/main/ligeicon.json",

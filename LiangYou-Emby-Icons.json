@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-10",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-11",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -637,6 +637,10 @@
     {
       "name": "Air-Doll-05",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Air-Doll-05.png"
+    },
+    {
+      "name": "Airrail",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Airrail.png"
     },
     {
       "name": "Akira-048",
