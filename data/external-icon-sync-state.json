@@ -1138,6 +1138,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/meta.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/mexc.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/msx.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/nagram.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/netflix(old).png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/netflix(red).png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/netflix.png",
@@ -2385,8 +2386,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-13",
-  "lastAdded": 0,
+  "checkedAt": "2026-11-14",
+  "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "ligeicon": "https://raw.githubusercontent.com/lige47/lige_icon/main/ligeicon.json",
