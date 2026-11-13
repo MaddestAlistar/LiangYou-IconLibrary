@@ -1,9 +1,15 @@
 {
   "id": "20261113160405403-0c42e4bb",
-  "publishedName": "蜗牛-五彩",
-  "publishedFilename": "icons/liangyou/submission-20261113160405403-0c42e4bb.png",
+  "status": "withdrawn",
   "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113160405403-0c42e4bb.png",
+  "publishedFilename": "icons/liangyou/submission-20261113160405403-0c42e4bb.png",
+  "publishedName": "蜗牛-五彩",
   "publishedAt": "2026-11-13T16:28:05.984Z",
   "imageSha": "9ac50b0186e99c7019ac2228de3c25667001fde3",
-  "publisherVersion": "2026-10-26.rename-v5"
+  "withdrawnAt": "2026-11-13T16:43:48.920Z",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "removedCounts": {
+    "LiangYou-Original-Icons.json": 1,
+    "LiangYou-Emby-Icons.json": 1
+  }
 }
