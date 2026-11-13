@@ -1,9 +1,15 @@
 {
   "id": "20261113162522309-fe6fdff3",
-  "publishedName": "途播",
-  "publishedFilename": "icons/liangyou/submission-20261113162522309-fe6fdff3.png",
+  "status": "withdrawn",
   "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113162522309-fe6fdff3.png",
+  "publishedFilename": "icons/liangyou/submission-20261113162522309-fe6fdff3.png",
+  "publishedName": "途播",
   "publishedAt": "2026-11-13T16:27:14.940Z",
   "imageSha": "cad48fd04438f703b61264992b870d6452087b8d",
-  "publisherVersion": "2026-10-26.rename-v5"
+  "withdrawnAt": "2026-11-13T16:45:54.643Z",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "removedCounts": {
+    "LiangYou-Original-Icons.json": 1,
+    "LiangYou-Emby-Icons.json": 1
+  }
 }
