@@ -1868,6 +1868,7 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HandouEmby-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HandouEmby-03.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HardMoon.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HehuanEmby.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloBlock-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloBlock-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HelloBlock-03.png",
@@ -2386,7 +2387,7 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-14",
+  "checkedAt": "2026-11-15",
   "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",

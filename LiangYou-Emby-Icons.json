@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-14",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-15",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -9397,6 +9397,10 @@
     {
       "name": "Heathers062",
       "url": "https://raw.githubusercontent.com/ftufkc/emby-icon/main/icon/Heathers062.png"
+    },
+    {
+      "name": "HeHuan",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/HehuanEmby.png"
     },
     {
       "name": "Heige",
