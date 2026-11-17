@@ -1692,6 +1692,7 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AytPlus.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBFreeFilm.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BBQAQEmby.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BDLEmby.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BTYIN-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/BaiHuaTheatre-01.png",
@@ -1991,6 +1992,8 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-03.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-04.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Loser.1111-05.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LueluelueEmby-01.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LueluelueEmby-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LuminaGallery-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LuminaGallery-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LuminaGallery-03.png",
@@ -2389,8 +2392,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-17",
-  "lastAdded": 0,
+  "checkedAt": "2026-11-18",
+  "lastAdded": 3,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "ligeicon": "https://raw.githubusercontent.com/lige47/lige_icon/main/ligeicon.json",
