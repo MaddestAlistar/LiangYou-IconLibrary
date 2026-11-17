@@ -1,6 +1,6 @@
 {
   "name": "良友原创图标库",
-  "description": "小红书：良哥看未来原创｜更新时间：2026-11-14",
+  "description": "小红书：良哥看未来原创｜更新时间：2026-11-17",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -233,6 +233,10 @@
     {
       "name": "baimingdan｜白名单 02",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/baimingdan-02.png"
+    },
+    {
+      "name": "BDL",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-19bb922e-0761-441d-8e4e-be8e6de58bcc.png"
     },
     {
       "name": "beishangxiaoji｜悲伤小鸡动态 01",
