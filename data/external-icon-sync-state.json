@@ -140,6 +140,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/MisakaF-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Misty(1)-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Misty-emby.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Monta-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Msky-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Nanflix(1)-emby.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/emby/Nanflix-emby.png",
@@ -1014,6 +1015,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Notion.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Oracle.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/OtterLife.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/PPFlight.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Perplexity.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Pinterest.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/PlayStation.png",
@@ -2395,8 +2397,8 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-19",
-  "lastAdded": 3,
+  "checkedAt": "2026-11-20",
+  "lastAdded": 2,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
     "ligeicon": "https://raw.githubusercontent.com/lige47/lige_icon/main/ligeicon.json",
