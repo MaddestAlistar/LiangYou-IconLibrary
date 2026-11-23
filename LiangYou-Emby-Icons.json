@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-23",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-24",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -425,6 +425,10 @@
     {
       "name": "茉莉-动态 01",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261123024323252-464ef5c7-animated.gif"
+    },
+    {
+      "name": "茉莉人物",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261123165429175-9a6c4be5.png"
     },
     {
       "name": "墨云阁2",
