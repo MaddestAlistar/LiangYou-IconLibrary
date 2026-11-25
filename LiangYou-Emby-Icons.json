@@ -1,6 +1,6 @@
 {
   "name": "良友媒体图标库",
-  "description": "小红书：良哥看未来整理｜更新时间：2026-11-25",
+  "description": "小红书：良哥看未来整理｜更新时间：2026-11-26",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -26853,6 +26853,10 @@
     {
       "name": "xiaohuanRodelPlayer",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/xiaohuanRodelPlayer.png"
+    },
+    {
+      "name": "XiaoLa",
+      "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaolaEmby.png"
     },
     {
       "name": "Xiaomi",

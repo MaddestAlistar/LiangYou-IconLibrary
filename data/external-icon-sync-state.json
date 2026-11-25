@@ -2322,6 +2322,7 @@
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-03.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoXiaMi-04.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaoZhuXuan.png",
+      "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiaolaEmby.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiatianEmby-01.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiatianEmby-02.png",
       "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/XiatianEmby-03.png",
@@ -2406,7 +2407,7 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-25",
+  "checkedAt": "2026-11-26",
   "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
