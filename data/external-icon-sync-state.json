@@ -1395,6 +1395,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/SevenXue.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/SkyLinX.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/SpaceK.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/SparkCloud.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Starshine_CLOUD(1).png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Starshine_CLOUD.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/Stepflyjieyueyun.png",
@@ -2405,7 +2406,7 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-24",
+  "checkedAt": "2026-11-25",
   "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
