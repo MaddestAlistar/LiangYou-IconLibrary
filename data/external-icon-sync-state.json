@@ -1027,6 +1027,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Polymarket.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/PrimeVideo.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/ProtonMail.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Raksmart.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Sharon.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Swiftgram(1).png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/Swiftgram(10).png",
@@ -2407,7 +2408,7 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-26",
+  "checkedAt": "2026-11-27",
   "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
