@@ -1552,6 +1552,7 @@
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/pokemon.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/prprCloud.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/qianlink.png",
+      "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/qihaoxingqiu.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/qingfengyun.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/qingting9dragonfly.png",
       "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/qingyunti.png",
@@ -2408,7 +2409,7 @@
     ]
   },
   "initialized": true,
-  "checkedAt": "2026-11-27",
+  "checkedAt": "2026-11-28",
   "lastAdded": 1,
   "sources": {
     "lige47": "https://raw.githubusercontent.com/lige47/lige_icon/main/lige-emby-icon.json",
