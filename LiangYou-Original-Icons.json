@@ -1,6 +1,6 @@
 {
   "name": "良友原创图标库",
-  "description": "小红书：良哥看未来原创｜更新时间：2026-11-27",
+  "description": "小红书：良哥看未来原创｜更新时间：2026-11-28",
   "icons": [
     {
       "name": "良友-流云音乐",
@@ -541,6 +541,10 @@
     {
       "name": "Msky 09",
       "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/msky-01.png"
+    },
+    {
+      "name": "MYGO",
+      "url": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261128105611269-3edc4eb0.png"
     },
     {
       "name": "niubi｜牛逼 01",
